@@ -20,7 +20,7 @@ This project digs deep into **14,000+ rows** of real retail data and uncovers:
 
 | Yearly Trend | Top 10 Businesses |
 |---|---|
-| ![Yearly](reports/yearly_trend.png) | ![Business](reports/business_category.png) |
+| ![Yearly](https://github.com/Krish-1410/Retail-sales-analysis-/blob/main/retail%20and%20food%20services/Retail%20Analysis/reports/yearly_trend.png) | ![Business](reports/business_category.png) |
 
 | Monthly Pattern | Pre vs Post COVID |
 |---|---|
